@@ -1,7 +1,7 @@
 {
-  "pasteImage.showFilePathConfirmInputBox": true,
-  "pasteImage.path": "${projectRoot}/assets/img/${currentFileNameWithoutExt}",
-  "pasteImage.basePath": "${projectRoot}",
-  "pasteImage.forceUnixStyleSeparator": true,
-  "pasteImage.prefix": "/"
+    "pasteImage.showFilePathConfirmInputBox": true,
+    "pasteImage.path": "${projectRoot}/assets/img/${currentFileNameWithoutExt}",
+    "pasteImage.basePath": "${projectRoot}",
+    "pasteImage.forceUnixStyleSeparator": true,
+    "pasteImage.prefix": "/"
 }
