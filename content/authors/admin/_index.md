@@ -47,8 +47,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Communication Network
+  - Wireless and Bluetooth Network
 
 education:
   # - area: PhD Artificial Intelligence
@@ -91,9 +91,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Implemented NIC drivers
+      - Maintained LwIP network protocol stack in SylixOS
+      - Designed and developed Bluetooth protocol stack of SylixOS
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
